@@ -22,3 +22,8 @@ npm i imgbb-uploader
 
 
 DUVIDAS WHATSAPP wa.me/5522999982383
+
+
+// O anti fake está criptografado porque o dono do código anti fake e o Brizas Bot //
+// Mas o Restante está editável//
+
