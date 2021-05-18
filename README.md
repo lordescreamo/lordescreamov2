@@ -6,9 +6,9 @@ termux-setup-storage
 
 apt upgrade
 
- pkg install git
+pkg install git
  
- https://github.com/lordescreamo/lordescreamov2
+git clone https://github.com/lordescreamo/lordescreamov2
 
 cd lordescreamov2
 
